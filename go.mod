@@ -1,4 +1,4 @@
-module github.com/maxts0gt/bankplatform
+module github.com/maxts0gt/go-bank-app
 
 go 1.18
 

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maxts0gt/bankplatform/util"
+	"github.com/maxts0gt/go-bank-app/util"
 	"github.com/stretchr/testify/require"
 )
 
